@@ -3,7 +3,7 @@
 
 Capture Points and RAAS lanes are automatically extracted from Squad maps.
 
-If you spot any specific errors, please open an issue!
+If you spot any specific errors, please open an issue!  
 That helps us get an overview.
 
 ## Usage
